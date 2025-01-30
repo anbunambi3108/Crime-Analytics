@@ -1,1 +1,3 @@
 # Crime-Analytics
+
+This project examines U.S. crime trends using linear regression, analyzing how socioeconomic factors influence crime rates. The study builds multiple regression models, refining them to improve accuracy and predictive power. After testing different models, the final model achieves an R-squared of 76.49%, indicating a strong relationship between key variables like police expenditure, income inequality, education levels, and demographics. The analysis helps identify significant predictors of crime, providing valuable insights for data-driven crime prevention and policy-making.
